@@ -1,0 +1,9 @@
+.competencyLinks {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.competencyLink {
+    display: flex;
+    flex-flow: row nowrap;
+}
